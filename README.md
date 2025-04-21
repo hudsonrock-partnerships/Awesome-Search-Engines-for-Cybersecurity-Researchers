@@ -71,3 +71,4 @@ Awesome list of Search Engines for Cybersecurity Researchers
 | https://urldna.io/ | The DNA test for websites | YES |
 | https://awseye.com/ | Shodan for AWS | YES |
 | https://securitygate.org | Research Center and Vulnerability Laboratory | YES |
+| https://osint.ly | All-in-one OSINT platform designed for comprehensive online searches. | YES |
